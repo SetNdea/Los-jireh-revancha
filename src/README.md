@@ -245,4 +245,9 @@ void loop()
       }
    }
 
-The artifacts required to resolve dependencies and build the project 
+
+
+
+
+
+ <h2 align="center"> The artifacts required to resolve dependencies and build the project </h2>
