@@ -251,3 +251,13 @@ void loop()
 
 
  <h2 align="center"> The artifacts required to resolve dependencies and build the project </h2>
+ 
+[![No-page-0001.jpg](https://i.postimg.cc/xCTGhHyT/No-page-0001.jpg)](https://postimg.cc/67gGG8mD)
+
+[![No-page-0002.jpg](https://i.postimg.cc/C5n8p4ZY/No-page-0002.jpg)](https://postimg.cc/n9ZrvBYw)
+
+[![No-page-0003.jpg](https://i.postimg.cc/LXxdFzcy/No-page-0003.jpg)](https://postimg.cc/k6RYxtX8)
+
+[![No-page-0004.jpg](https://i.postimg.cc/s2z4PbMW/No-page-0004.jpg)](https://postimg.cc/xXsmnxyj)
+
+
